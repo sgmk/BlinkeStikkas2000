@@ -15,6 +15,10 @@ This allows even more of you to join and participate in the collaborative design
 
 ### Lick'o'meter
 
+### Idiotektor
+
+![Online Participation](https://github.com/sgmk/BlinkeStikkas2000/raw/main/circuits/idiotektor_schema_examples.jpg)
+
 ### Vive-la-Resistance
 
 ### BlinkeShit
