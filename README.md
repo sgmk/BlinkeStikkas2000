@@ -15,9 +15,13 @@ This allows even more of you to join and participate in the collaborative design
 
 ### Lick'o'meter
 
+See more about the [Lick'o'meter](https://wiki.idiot.io/lickometer)
+
+![Lick'o'meter](https://github.com/sgmk/BlinkeStikkas2000/raw/main/circuits/Lickometer_schema.jpg)
+
 ### Idiotektor
 
-![Online Participation](https://github.com/sgmk/BlinkeStikkas2000/raw/main/circuits/idiotektor_schema_examples.jpg)
+![Idiotektor](https://github.com/sgmk/BlinkeStikkas2000/raw/main/circuits/idiotektor_schema_examples.jpg)
 
 ### Vive-la-Resistance
 
