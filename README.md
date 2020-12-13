@@ -11,6 +11,8 @@ New designs to make sticky circuit PCB for 2020 x-mas and rC3
 
 ![](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/Stickas_done.jpg)
 
+![](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/screenshot_stikkaWorkshop.jpg)
+
 
 ## Preparations for BlinkeStikka Circuits Workshop
 
