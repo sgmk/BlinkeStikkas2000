@@ -5,6 +5,8 @@ New designs to make sticky circuit PCB for 2020 x-mas and rC3
 
 ## Results and Impressions
 
+![](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/vali_stickers.jpg)
+
 ![](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/microNoise_sticker.jpg)
 
 ![](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/LiveEtching_covidon3.jpg)
