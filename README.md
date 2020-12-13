@@ -3,6 +3,15 @@ New designs to make sticky circuit PCB for 2020 x-mas and rC3
 
 ![BlinkeShit](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/BlinkeShit_animated_sm.gif)
 
+## Results and Impressions
+
+![](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/microNoise_sticker.jpg)
+
+![](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/LiveEtching_covidon3.jpg)
+
+![](https://github.com/sgmk/BlinkeStikkas2000/raw/main/photos/Stickas_done.jpg)
+
+
 ## Preparations for BlinkeStikka Circuits Workshop
 
 See Website of the [Swiss Mechatronic Art Society](https://mechatronicart.ch/x-mas-sticky-circuits-workshop/)
